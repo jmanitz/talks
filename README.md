@@ -4,7 +4,8 @@ Collection of slide sets
 ## 2021
 
 * R/Pharma 2021: Risk-based Assessment of R Packages at Merck KGaA/ EMD Serono, Nov 2-4, 2021
-* rOpenSci Community Call: Expanding Software Peer Review: Statistical Package Standards at rOpenSci (On behalf of the R validation hub): https://ropensci.org/commcalls/oct2021-statsreview02/
+* R/Pharma Workshop: Building Tidy Rpackages (in collaboration with Leigh Alexander), October 27, 2021. https://github.com/jmanitz/Rpharma2021_pkg-dev
+* rOpenSci Community Call: Expanding Software Peer Review: Statistical Package Standards at rOpenSci (On behalf of the R validation hub). https://ropensci.org/commcalls/oct2021-statsreview02/
 * ASA BIOP 2021. Estimands for Overall Survival with Treatment Switching, September 21-24, 2021.
 * SCT 2021. How the estimand addendum to the ICH E9 guideline helps structure clinical objectives, analyses, and conclusions. May 17-21, 2021. 
 
