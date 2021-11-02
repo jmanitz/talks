@@ -1,5 +1,5 @@
 # talks
-Collection of slide sets 
+Collection of slide sets, resources  and references
 
 ## 2021
 
@@ -12,7 +12,7 @@ Collection of slide sets
 ## 2020
 
 * GMDS & CEN-IBS 2020. Estimands for Overall Survival with Treatment Switching September 6-11, 2020.
-* useR! 2020 A risk-based Assessment for R Package Accuracy. On behalf of the R validation hub.
+* useR! 2020 A risk-based Assessment for R Package Accuracy. On behalf of the R validation hub. https://www.youtube.com/watch?v=WUVUjdqifJ8
 * Immuno-Oncology 360°. Association between response assessment using RECIST and irRECIST in 1765 patients with advanced solid tumors treated with avelumab monotherapy February 26-28, 2020. New York City, NY, USA.
 
 ## 2019
