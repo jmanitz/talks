@@ -1,6 +1,15 @@
 # talks
 Collection of slide sets, resources  and references
 
+## 2023
+
+* SDSS 2023: A semi-automatic machine learning pipeline for identification of prognostic and predictive factors in cancer trial data. May 23-26, 2023.
+* R/Adoption Series: Learnings and Reflection from R Validation Case Studies (On behalf of the R validation hub). March 30, 2023. https://www.r-consortium.org/r-adoption-series-learnings-and-reflection-from-r-validation-case-studies
+
+## 2022
+
+* useR! Learnings and Reflection on the Implementation of Risk-based Package Assessment (On behalf of the R validation hub). 
+
 ## 2021
 
 * R/Pharma 2021: Risk-based Assessment of R Packages at Merck KGaA/ EMD Serono, Nov 2-4, 2021
